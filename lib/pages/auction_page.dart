@@ -15,6 +15,7 @@ class _AuctionPage extends State<AuctionPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+     
       appBar: AppBar(
         backgroundColor: Colors.red.shade300,
         
